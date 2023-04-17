@@ -1,0 +1,15 @@
+{
+  "name": "notification-service",
+  "version": "1.0.0",
+  "description": "Notification service",
+  "author": "Svetlana",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-bundle": "^6.0.0",
+    "serverless-dotenv-plugin": "^2.1.1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.312.0",
+    "aws-sdk": "^2.1351.0"
+  }
+}
